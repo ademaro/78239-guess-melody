@@ -1,7 +1,7 @@
 # Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Антон Попов](https://up.htmlacademy.ru/ecmascript/4/user/78239).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://up.htmlacademy.ru/ecmascript/4/user/78239).
 
 ---
 
