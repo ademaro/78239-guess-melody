@@ -1,5 +1,5 @@
-const mainContainerEl = document.querySelector('.main');
-const allTemplatesEl = document.querySelector('template').content.querySelectorAll('.main');
+const mainContainerEl = document.querySelector(`.main`);
+const allTemplatesEl = document.querySelector(`template`).content.querySelectorAll(`.main`);
 const screens = Array.from(allTemplatesEl);
 
 /**
